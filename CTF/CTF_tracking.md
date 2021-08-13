@@ -1,5 +1,5 @@
 This is a tracking of all CTFs that i've been completed on TryHackMe.com, sorted by time
-1 Pickle Rick
+\n1 Pickle Rick
 2 Blueprint
 3 Retro
 4 Mr Robot CTF
