@@ -9,4 +9,5 @@ This is a tracking of all CTFs that i've been completed on TryHackMe.com, sorted
 - Agent Sudo
 - RootMe
 - Bounty Hacker
+- LazyAdmin
 - ...
