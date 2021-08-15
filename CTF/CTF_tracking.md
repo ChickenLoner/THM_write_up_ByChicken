@@ -12,4 +12,5 @@ This is a tracking of all CTFs that i've been completed on TryHackMe.com, sorted
 - LazyAdmin (Linux)
 - Anthem (Windows)
 - Source (Linux)
+- Ignite (Linux)
 - ...
