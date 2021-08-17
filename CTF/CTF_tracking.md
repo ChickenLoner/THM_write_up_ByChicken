@@ -13,4 +13,6 @@ This is a tracking of all CTFs that i've been completed on TryHackMe.com, sorted
 - Anthem (Windows)
 - Source (Linux)
 - Ignite (Linux)
-- ...
+- Cyborg (Linux)
+
+...
