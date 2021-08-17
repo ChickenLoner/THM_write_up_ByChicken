@@ -14,4 +14,3 @@ This is a tracking of all CTFs that i've been completed on TryHackMe.com, sorted
 - Source (Linux)
 - Ignite (Linux)
 - Cyborg (Linux)
-...
